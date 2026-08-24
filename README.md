@@ -311,10 +311,9 @@ See `requirements.txt` for version-pinned package list.
 
 ## Author
 
-**Sarvesh Kumar Sharma**
+**Chiranjeevi S**
 
-- GitHub: [@shsarv](https://github.com/shsarv)
-- LinkedIn: [in/shsarv](https://linkedin.com/in/shsarv)
+  
 
 ---
 
